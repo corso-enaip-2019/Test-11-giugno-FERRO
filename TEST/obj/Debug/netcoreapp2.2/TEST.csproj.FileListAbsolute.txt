@@ -1,0 +1,14 @@
+C:\Users\triprog-6\source\repos\prog6\TEST\bin\Debug\netcoreapp2.2\TEST.deps.json
+C:\Users\triprog-6\source\repos\prog6\TEST\bin\Debug\netcoreapp2.2\TEST.runtimeconfig.json
+C:\Users\triprog-6\source\repos\prog6\TEST\bin\Debug\netcoreapp2.2\TEST.runtimeconfig.dev.json
+C:\Users\triprog-6\source\repos\prog6\TEST\bin\Debug\netcoreapp2.2\TEST.dll
+C:\Users\triprog-6\source\repos\prog6\TEST\bin\Debug\netcoreapp2.2\TEST.pdb
+C:\Users\triprog-6\source\repos\prog6\TEST\obj\Debug\netcoreapp2.2\TEST.csprojAssemblyReference.cache
+C:\Users\triprog-6\source\repos\prog6\TEST\obj\Debug\netcoreapp2.2\TEST.csproj.CoreCompileInputs.cache
+C:\Users\triprog-6\source\repos\prog6\TEST\obj\Debug\netcoreapp2.2\TEST.RazorAssemblyInfo.cache
+C:\Users\triprog-6\source\repos\prog6\TEST\obj\Debug\netcoreapp2.2\TEST.RazorAssemblyInfo.cs
+C:\Users\triprog-6\source\repos\prog6\TEST\obj\Debug\netcoreapp2.2\TEST.AssemblyInfoInputs.cache
+C:\Users\triprog-6\source\repos\prog6\TEST\obj\Debug\netcoreapp2.2\TEST.AssemblyInfo.cs
+C:\Users\triprog-6\source\repos\prog6\TEST\obj\Debug\netcoreapp2.2\TEST.RazorTargetAssemblyInfo.cache
+C:\Users\triprog-6\source\repos\prog6\TEST\obj\Debug\netcoreapp2.2\TEST.dll
+C:\Users\triprog-6\source\repos\prog6\TEST\obj\Debug\netcoreapp2.2\TEST.pdb
